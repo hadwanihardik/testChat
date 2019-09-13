@@ -1,0 +1,6 @@
+platform :ios, '10.3'
+
+target 'testChat' do
+pod 'AppCenter'
+end
+
